@@ -135,25 +135,20 @@ Spotify has evolved into a **Data-Driven Discovery Engine**. By combining **Filt
       <sub><b>[Tisha Jambhulkar]</b></sub>
     </td>
     <td>
-      <b>B.Tech Computer Science Student</b><br/>
+      <b>B.Tech Electronics and Telecommunication Student</b><br/>
       Focusing on Systems Analysis, Data Science, and UI/UX Design.<br/>
       <i>"Passionate about deconstructing complex algorithms into understandable insights."</i>
     </td>
   </tr>
 </table>
 
-### 🚀 Motivation
-This case study was developed as part of my **IT Systems & Operations** assignment. While many focus on the frontend appearance of apps, I wanted to dive into the **backend logic** and **data pipelines** that make a platform like Spotify feel "personal" to over 600 million users.
+This case study was developed as part of my **MDM** assignment. While many focus on the frontend appearance of apps, I wanted to dive into the **backend logic** and **data pipelines** that make a platform like Spotify feel "personal" to over 600 million users.
 
 ### 🛠️ Technical Interests
 * **Recommendation Engines:** Analyzing collaborative filtering and NLP.
 * **Data Visualization:** Turning raw analytics into user-facing "stories."
 * **System Operations:** Mapping the flow from user interaction to database updates.
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
