@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Wrapped 2025 | Case Study UI</title>
+    <style>
+        :root {
+            --spotify-green: #1DB954;
+            --bg-gradient: linear-gradient(135deg, #7b2ff7 0%, #f107a3 100%);
+            --card-bg: #191414;
+        }
+
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #121212;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        /* The Wrapped Card */
+        .wrapped-card {
+            background: var(--bg-gradient);
+            width: 350px;
+            height: 600px;
+            border-radius: 20px;
+            padding: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .header {
+            font-weight: bold;
+            font-size: 1.2rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .main-content {
+            margin-top: 20px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin: 0;
+            line-height: 1.1;
+        }
+
+        .artist-list {
+            list-style: none;
+            padding: 0;
+            margin-top: 30px;
+        }
+
+        .artist-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px;
+            border-radius: 10px;
+            backdrop-filter: blur(5px);
+        }
+
+        .rank {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-right: 15px;
+            color: var(--spotify-green);
+        }
+
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            width: 80px;
+        }
+
+        .badge {
+            background: white;
+            color: black;
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="wrapped-card">
+        <div class="header">2025 Wrapped</div>
+
+        <div class="main-content">
+            <h1>Your top <br>artists of <br>the year.</h1>
+            
+            <ul class="artist-list">
+                <li class="artist-item">
+                    <span class="rank">1</span>
+                    <span>The Weeknd</span>
+                </li>
+                <li class="artist-item">
+                    <span class="rank">2</span>
+                    <span>Taylor Swift</span>
+                </li>
+                <li class="artist-item">
+                    <span class="rank">3</span>
+                    <span>Drake</span>
+                </li>
+                <li class="artist-item">
+                    <span class="rank">4</span>
+                    <span>Lana Del Ray</span>
+                </li>
+                <li class="artist-item">
+                    <span class="rank">5</span>
+                    <span>Post Malone</span>
+                </li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <div class="badge">#SpotifyWrapped</div>
+            <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_White.png" class="logo" alt="Spotify">
+        </div>
+    </div>
+
+</body>
+</html>
