@@ -136,8 +136,8 @@ Spotify has evolved into a **Data-Driven Discovery Engine**. By combining **Filt
     </td>
     <td>
       <b>B.Tech Electronics and Telecommunication Student</b><br/>
-      Focusing on Systems Analysis, Data Science, and UI/UX Design.<br/>
-      <i>"Passionate about deconstructing complex algorithms into understandable insights."</i>
+      Yeshwantrao Chavan College of Engineering (YCCE)<br/>
+  
     </td>
   </tr>
 </table>
