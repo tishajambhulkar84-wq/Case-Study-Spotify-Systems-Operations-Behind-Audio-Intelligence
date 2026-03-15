@@ -149,6 +149,15 @@ This case study was developed as part of my **MDM** assignment. While many focus
 * **Data Visualization:** Turning raw analytics into user-facing "stories."
 * **System Operations:** Mapping the flow from user interaction to database updates.
 
+### 📸 Visual Reference: Spotify Wrapped
+> Example of the Visualization System turning raw listening data into a shareable user interface.
+
+<p align="center">
+  <img src="wrapped.jpg" width="350" title="Spotify Wrapped UI Example">
+</p>
+
+*Figure 1: The 'Audio Aura' visualization and personalized artist rankings.*
+
 
 ---
 
